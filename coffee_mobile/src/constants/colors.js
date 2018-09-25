@@ -1,0 +1,21 @@
+export const colors = {
+    opacityMain: "#81ca81",
+    main: '#49b049',
+    boldMain: "#3c903c",
+    white: 'white',
+    mainOpacity: '#2c692c',
+
+    red: "#FF0000",
+    whiteOpacity: 'rgba(255,255,255,0.75)',
+    blackOpacity: 'rgba(0, 0, 0, 0.3)',
+    black: '#000000',
+    nv: '#3333CC',
+    button1: '#19A6BE',
+    backgroundProfile: '#CCCCCC',
+    blacksOpacity: 'rgba(0, 0, 0, 0)',
+    mainOpa: 'rgba(240,147,0,0.2)',
+    whiteOpacity0: 'rgba(255,255,255,0)',
+    colorNoti: '#f1f1f2',
+    opacity: '#f09300',
+    blackOpacity2: 'rgba(0, 0, 0, 0)',
+}
